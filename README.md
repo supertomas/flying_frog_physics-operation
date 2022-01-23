@@ -1,5 +1,5 @@
 # flying_frog_physics-operation-jump
-OpenSiv3Dで開発した2Dのアクションゲームです。以下のURLにあるOpenSiv3D_SDK(0.4.3).zipをダウンロードしてください。
-https://zenn.dev/reputeless/articles/article-manual-install
+OpenSiv3Dで開発した2Dのアクションゲームです。以下のURLにあるOpenSiv3D_SDK(0.4.3).zipをダウンロードしてください。<br>
+https://zenn.dev/reputeless/articles/article-manual-install<br>
 使用するOpenSiv3Dプロジェクト内のAPPフォルダと同じディレクトリにソースコードのファイルを入れ、Imagesフォルダ、Soundフォルダ、config.tomlはAppフォルダの中に入れれば遊べます。
 別のリポジトリにあるflying_frogと異なる部分はカエルのジャンプの挙動です。前のバージョンと違い物理演算に従ったジャンプの動きにしました。
